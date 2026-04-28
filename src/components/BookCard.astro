@@ -11,7 +11,7 @@ const { book } = Astro.props;
   <p class="book-title">{book.data.title}, ⭐{book.data.rating}/5</p>
   <p class="book-author">by {book.data.author}</p>
   <p class="book-summary">{book.data.summary}</p>
-  <a href="">Read review</a>
+  <a href=`/books/${book.id}`>Read review</a>
 </div>
 
 <style>

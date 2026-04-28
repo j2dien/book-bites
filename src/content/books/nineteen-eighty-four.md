@@ -1,0 +1,26 @@
+---
+title: "1984"
+author: "George Orwell"
+summary: "A dystopian novel about totalitarianism and surveillance."
+rating: 4.6
+---
+
+# 1984
+
+**Author:** George Orwell  
+**Rating:** ⭐ 4.6 / 5
+
+## Summary
+
+_A dystopian novel about totalitarianism and surveillance._
+
+## Overview
+
+"1984" menggambarkan dunia distopia di bawah pengawasan ketat pemerintah totaliter. Tokoh utama, Winston Smith, berjuang melawan kontrol dan manipulasi realitas.
+
+## Themes
+
+- Totalitarianism
+- Surveillance
+- Freedom vs Control
+- Truth and Propaganda
