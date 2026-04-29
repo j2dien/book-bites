@@ -10,6 +10,8 @@ rating: 4.7
 **Author:** Jane Austen  
 **Rating:** ⭐ 4.7 / 5
 
+---
+
 ## Summary
 
 _A romantic novel that critiques the British landed gentry of the early 19th century._

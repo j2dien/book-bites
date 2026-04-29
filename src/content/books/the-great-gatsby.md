@@ -10,6 +10,8 @@ rating: 4.5
 **Author:** F. Scott Fitzgerald  
 **Rating:** ⭐ 4.5 / 5
 
+---
+
 ## Summary
 
 _A novel about the American dream and the decadence of the Jazz Age._

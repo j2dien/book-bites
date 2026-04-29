@@ -11,6 +11,8 @@ summary: "A story about teenage rebellion and alienation."
 **Author:** J.D. Salinger  
 **Rating:** ⭐ 4.3 / 5
 
+---
+
 ## Summary
 
 _A story about teenage rebellion and alienation._
